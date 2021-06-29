@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManasaGinjupalli
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java and python with data science. 
+- 👀 I’m interested in coding and looking for full-time oppurtunities
+- 🌱 I’m currently learning java and python with data science
 - 📫 How to reach me - manasaginjupalli407@gmail.com
 
 <!---
